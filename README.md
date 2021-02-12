@@ -1,6 +1,10 @@
 # pyMovieRenamer
 A python script for renaming movie folders and files. Makes filenames and folders readable!
 
+Requirements: Python 2.x  
+
+Usage: pyMovieRenamer.py
+
 Instructions:
 Install python
 Place the movierename.py and wordlist.txt in the root of your folder where you keep your movies. For it to work, your root should contain seperate folders, with videofiles and subtitle files in them. 
